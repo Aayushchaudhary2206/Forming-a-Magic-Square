@@ -1,4 +1,3 @@
-package com.company;
 /*
   Problem from hacker rank
   URL https://www.hackerrank.com/challenges/magic-square-forming/problem
